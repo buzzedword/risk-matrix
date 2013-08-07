@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/buzzedword/risk-matrix.png)](https://waffle.io/buzzedword/risk-matrix)  
 risk-matrix
 ===========
 
